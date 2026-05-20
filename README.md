@@ -91,6 +91,8 @@ cn_display.plot()
 ```
 
 ## Output:
+<img width="731" height="346" alt="image" src="https://github.com/user-attachments/assets/bca6afc2-6e0d-4fc6-b286-b7f168e280f2" />
+
 <img width="833" height="581" alt="image" src="https://github.com/user-attachments/assets/c018ba34-9221-4c51-8791-ac36c7ae9023" />
 
 
